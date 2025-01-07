@@ -3,9 +3,9 @@
     let { children } = $props();
 </script>
 
-<svelte:head>
-    <link rel="stylesheet" href="/styles.css" />
-</svelte:head>
+<style>
+    @import '/styles.css';
+</style>
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
