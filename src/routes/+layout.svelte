@@ -4,7 +4,7 @@
 </script>
 
 <style>
-    @import '/styles.css';
+    @import '/static/styles.css';
 </style>
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
